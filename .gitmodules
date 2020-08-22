@@ -1,0 +1,3 @@
+[submodule "external/example-submodule"]
+	path = external/example-submodule
+	url = https://github.com/Ronnyc7z/example-submodule.git
